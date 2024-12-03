@@ -34,6 +34,7 @@ The primary objective of this analysis is to process, analyze, and visualize Cip
      - Other patterns of interest.
 
   ## Dashboard Analysis
-![image](https://github.com/user-attachments/assets/1ad588b4-b423-4543-9608-338e611d11bf)
+![image](https://github.com/user-attachments/assets/d24605dc-68c2-48f4-8753-1bc0d413f506)
+
 
 
